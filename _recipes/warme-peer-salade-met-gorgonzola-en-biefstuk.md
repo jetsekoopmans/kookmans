@@ -4,7 +4,7 @@ ref: biefstuk-gorgonzola.jpg
 image: true
 time: 30
 persons: 2
-rating: 3
+rating: 5
 category: hoofd # voor amuse hoofd dessert
 ingredients: [
   150 gram rucola slamelange,
@@ -17,6 +17,22 @@ ingredients: [
   80 gram gorgonzola,
 ]
 ---
+<!-- <div class="gallery gallery-3">
+  <figure class="gallery-item">
+  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-2-large.jpeg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-2.jpeg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-2-small.jpeg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-2.jpeg" alt="If the dough is too sticky to roll it out you can do that it a lightly floured surface.">
+  <figcaption>If the dough is too sticky to roll it out you can do that it a lightly floured surface.</figcaption>
+</figure>
+  <figure class="gallery-item">
+  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-3-large.jpeg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-3.jpeg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-3-small.jpeg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-3.jpeg">
+</figure>
+  <figure class="gallery-item">
+  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-4-large.jpeg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-4.jpeg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-4-small.jpeg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-4.jpeg">
+</figure>
+</div> -->
+<!-- <figure>
+  <img srcset="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1-large.jpeg 2000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1.jpeg 1000w, {{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1-small.jpeg 500w" sizes="(min-width: 769px): 25vw, calc(100vw - 4rem)" src="{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/vanilla-crescents-1.jpeg" alt="You can substitute almond flour for the ground walnuts.">
+  <figcaption>You can substitute almond flour for the ground walnuts.</figcaption>
+</figure> -->
 
 **Biefstuk in een salade, wie denkt daar nou aan?**
 
