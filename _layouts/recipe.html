@@ -7,10 +7,10 @@ font: macro
   <div class="content-top">
     {% include core/metabar.html %}
 
-    {% if page.image %}
+    <!-- {% if page.image %}
       <div class="hero-background" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpeg') 2x )"></div>
       <div class="hero-overlay"></div>
-    {% endif %}
+    {% endif %} -->
 
     <header class="content hero">
       <a id="{{ page.title | url_encode }}"><h1 class="hero-title">{{ page.title }}</h1></a>
@@ -27,10 +27,6 @@ font: macro
 
       {{ content }}
 
-      {% include core/share.html %}
-
     </div>
-
-    {% include core/footer.html %}
   </div>
 </article>
