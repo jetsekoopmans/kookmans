@@ -35,7 +35,7 @@ compress_html:
 dark_theme: false
 
 # Site meta
-title: 'Kookmans & van Brouwelingen'
+title: 'Kookmans & van&nbsp;Brouwelingen'
 tagline: 'Onze lekkerste recepten'
 description: 'Kookmans & van Brouwelingen: Onze lekkerste recepten'
 keywords: 'Kookmans & van Brouwelingen: Onze lekkerste recepten'
